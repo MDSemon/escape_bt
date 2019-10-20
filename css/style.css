@@ -1,0 +1,48 @@
+/*font-family: 'Roboto', sans-serif;*/
+/*font-family: 'Baloo Bhai', cursive;*/
+body{
+	font-family: 'Roboto', sans-serif!important;
+	color:#777777!important;
+}
+.bg-img{
+	background-image: url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+/*header start*/
+header{
+	padding: 20px;
+}
+.menu ul li a{
+	padding:0 20px!important;
+	font-size: 18px;
+	transition: 0.5s !important;
+	color: white!important;
+	
+}
+.menu ul li a:hover{
+	color:#777777!important;
+}
+
+/*header end*/
+/*banner start*/
+.banner{
+	
+}
+.jumbotron p{
+	font-weight: 300;
+	font-size: 19px;
+	color: white;
+}
+.jumbotron span{
+	
+	font-size: 47px;
+	color: white;
+}
+.custom-button{
+	border: 1.5px solid white;
+    color: white;
+    font-size: 16px;
+    padding: 8px 45px;
+}
